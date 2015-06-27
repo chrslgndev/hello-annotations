@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="HelloAnnotationsCompiler.HelloAnnotationsCompiler">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/HelloAnnotationsCompiler/build/libs/HelloAnnotationsCompiler.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
